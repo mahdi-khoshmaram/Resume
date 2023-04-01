@@ -1,0 +1,79 @@
+@font-face {
+    font-family: h4;
+    src: url(../fonts/Roboto-Thin.ttf);
+}
+@font-face {
+    font-family: span;
+    src: url(../fonts/Source_Sans_Pro/SourceSansPro-Bold.ttf);
+}
+@font-face {
+    font-family: li;
+    src: url(../fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf);
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-bottom: 0mm;
+    margin-top:1.5cm;
+    text-align: center;
+    line-height:2mm;
+}
+
+nav.header{
+    font-family: h4;
+    color:#000000;
+    font-size: 4mm;
+    margin-bottom: 0mm;
+    text-align: center;
+}
+
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 5px;
+    background-color:#820000;
+    color:#FFFFFF;
+    text-indent: 3mm;
+    line-height:8mm; 
+}
+
+div{
+    margin-top: 2mm;
+}
+span{
+    font-family: span ;
+    font-weight: bolder;
+    margin-top: 1mm;
+    margin-left: 2mm;
+}
+
+
+ul.other{
+    font-family: li;
+    margin-left: 2px;
+    margin-top:0mm;
+    margin-bottom: 3mm;
+}
+
+ul.edu{
+    font-family: li;
+    margin-left: 5px;
+    margin-top:0mm;
+    margin-bottom: 3mm;
+}
+
+li{
+    line-height: 5.5mm;
+}
+
+
+a:link{
+    color:#640d14;
+    font-weight:bold;
+}
+a:visited{
+    color:#640d14;
+    font-weight: bold;
+}
+
