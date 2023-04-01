@@ -38,6 +38,9 @@ h2{
     line-height:8mm; 
 }
 
+div{
+    margin-top: 2mm;
+}
 span{
     font-family: span ;
     font-weight: bolder;
@@ -49,22 +52,28 @@ span{
 ul.other{
     font-family: li;
     margin-left: 2px;
-    margin-top:0%;
-    margin-bottom: 1mm;
+    margin-top:2mm;
+    margin-bottom: 3mm;
 }
 
 ul.edu{
     font-family: li;
     margin-left: 5px;
-    margin-top:0%;
-    margin-bottom: 1mm;
+    margin-top:2mm;
+    margin-bottom: 3mm;
+}
+
+li{
+    line-height: 6.5mm;
 }
 
 
 a:link{
     color:#640d14;
-    font-weight: bolder;
+    font-weight:bold;
 }
 a:visited{
     color:#640d14;
+    font-weight: bold;
 }
+
